@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="documentoId" type="id" />
+    <item name="campoNombre" type="id" />
+    <item name="campoApellido" type="id" />
+    <item name="campoNumerodeTarjeta" type="id" />
+    <item name="campoMesdeTarjeta" type="id" />
+    <item name="campoAnhoTarjeta" type="id" />
+    <item name="campoCodigoTarjeta" type="id" />
+    <item name="campoDireccion" type="id" />
+    <item name="campoCiudad" type="id" />
+    <item name="campoEstado" type="id" />
+    <item name="campoCodigoPostal" type="id" />
+</resources>
